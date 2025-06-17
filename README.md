@@ -79,31 +79,19 @@ Este projeto é de uso educacional e colaborativo, desenvolvido para promover a 
 ## ▶️ Como Rodar o Projeto
 Clone o repositório:
 
-bash
-Copiar
-Editar
 git clone https://github.com/seu-usuario/VaiDeBike-Maringa.git
 cd VaiDeBike-Maringa
 Instale as dependências do frontend:
 
-bash
-Copiar
-Editar
 cd frontend
 npm install
 Inicie o app com o Expo:
 
-bash
-Copiar
-Editar
 npx expo start
 Isso abrirá uma aba no navegador com o QR Code. Use o app Expo Go no celular ou um emulador Android/iOS para visualizar.
 
 (Opcional) Subir o backend (caso esteja incluso):
 
-bash
-Copiar
-Editar
 cd ../backend
 npm install
 npm run dev
